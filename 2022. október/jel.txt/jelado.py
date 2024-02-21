@@ -1,0 +1,3 @@
+jelek = []
+
+with open()
